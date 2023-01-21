@@ -1,10 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: ui-serif, sans-serif;
+    margin: 10;
+    padding: 10;
   }
   header {
-    background-color: #333;
+    background-color: rgb(108, 95, 95);
     color: #fff;
     padding: 1em;
   }
